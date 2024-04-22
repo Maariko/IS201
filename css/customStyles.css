@@ -1,0 +1,21 @@
+.bg-primary{
+    background-color: rgb(149, 77, 149) !important;
+
+}
+
+.text-primary{
+    color: rgb(149, 77, 149) !important;
+}
+
+a{
+    color:  rgb(108, 39, 108)
+}
+
+body{
+   background-color:  rgb(255, 227, 255)
+}
+
+
+.social-icons .social-icon:hover {
+    background-color: rgb(108, 39, 108);
+}
